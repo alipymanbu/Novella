@@ -1,37 +1,25 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Novella banner" width="100%">
-</p>
+# Novella
 
-# 📚 Novella
+本仓库是「Novella」的安卓版本获取入口，附使用资料索引。
 
-<a href="https://trendshift.io/repositories/22931?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-22931" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/22931" alt="celia-sh%2FNovella | Trendshift" width="250" height="55"/></a>
+## 安装文件资源（夸克网盘）
 
-<p>
-  <img src="assets/badges/typescript.svg" alt="TypeScript" height="24" />
-  <img src="assets/badges/react-native.svg" alt="React Native" height="24" />
-  <img src="assets/badges/expo.svg" alt="Expo" height="24" />
-  <img src="assets/badges/license.svg" alt="License: AGPL 3.0" height="24" />
-</p>
+> **Novella 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/32d8e3e98b44](https://pan.quark.cn/s/32d8e3e98b44)
 
-轻书架第三方客户端。
+## 官方项目
 
-本仓库正在从 Dart 迁移到 TypeScript：
+- 上游项目：[celia-sh/Novella](https://github.com/celia-sh/Novella)
 
-- `apps/mobile`：基于 React Native + Expo 的 iOS 客户端。
-- `packages/*`：与平台无关的客户端核心、协议。
+## 更多资料
 
-原有的 Flutter 实现保留在 `archive/flutter` 分支上。
+- [下载与安装教程](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Novella/%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.md)
+- [书架与云端同步](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Novella/%E4%B9%A6%E6%9E%B6%E4%B8%8E%E4%BA%91%E7%AB%AF%E5%90%8C%E6%AD%A5.md)
+- [常见问题与故障排查](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Novella/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E4%B8%8E%E6%95%85%E9%9A%9C%E6%8E%92%E6%9F%A5.md)
+- [找书与榜单筛选](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Novella/%E6%89%BE%E4%B9%A6%E4%B8%8E%E6%A6%9C%E5%8D%95%E7%AD%9B%E9%80%89.md)
+- [注册与登录教程](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Novella/%E6%B3%A8%E5%86%8C%E4%B8%8E%E7%99%BB%E5%BD%95%E6%95%99%E7%A8%8B.md)
+- [阅读排版与主题设置](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Novella/%E9%98%85%E8%AF%BB%E6%8E%92%E7%89%88%E4%B8%8E%E4%B8%BB%E9%A2%98%E8%AE%BE%E7%BD%AE.md)
+- [全部软件目录](https://github.com/alipymanbu/Android/blob/master/%E5%85%A8%E9%83%A8%E8%BD%AF%E4%BB%B6%E7%9B%AE%E5%BD%95.md)
 
-## 开发状态
+---
 
-React Native 重写正在积极开发中，欢迎向本仓库提交代码。功能开发清单见 [Issues](https://github.com/celia-sh/Novella/issues) 中的待办事项；如果你想做的功能不在清单中，请先在 [Discussions](https://github.com/celia-sh/Novella/discussions) 中讨论。
-
-## 移动端开发
-
-移动端使用 Expo Development Build 开发，仅支持 iOS。
-
-开发工作流（首次构建、日常开发、重新生成原生工程）与代码规范（原生设计、图标、组件泛用性）见 [CONTRIBUTING.md](CONTRIBUTING.md)。
-
-## 许可证
-
-AGPL-3.0。参见 [LICENSE](LICENSE)。
+> 本仓库由上游项目 fork 而来，原始说明见[上游仓库](https://github.com/celia-sh/Novella)。
